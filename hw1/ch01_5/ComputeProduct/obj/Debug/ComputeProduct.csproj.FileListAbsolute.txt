@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\CSharpHomework\hw1\ch01_5\ComputeProduct\bin\Debug\ComputeProduct.exe.config
+\\Mac\Home\Desktop\CSharpHomework\hw1\ch01_5\ComputeProduct\bin\Debug\ComputeProduct.exe
+\\Mac\Home\Desktop\CSharpHomework\hw1\ch01_5\ComputeProduct\bin\Debug\ComputeProduct.pdb
+\\Mac\Home\Desktop\CSharpHomework\hw1\ch01_5\ComputeProduct\obj\Debug\ComputeProduct.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\CSharpHomework\hw1\ch01_5\ComputeProduct\obj\Debug\ComputeProduct.Form1.resources
+\\Mac\Home\Desktop\CSharpHomework\hw1\ch01_5\ComputeProduct\obj\Debug\ComputeProduct.Properties.Resources.resources
+\\Mac\Home\Desktop\CSharpHomework\hw1\ch01_5\ComputeProduct\obj\Debug\ComputeProduct.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\CSharpHomework\hw1\ch01_5\ComputeProduct\obj\Debug\ComputeProduct.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CSharpHomework\hw1\ch01_5\ComputeProduct\obj\Debug\ComputeProduct.exe
+\\Mac\Home\Desktop\CSharpHomework\hw1\ch01_5\ComputeProduct\obj\Debug\ComputeProduct.pdb
