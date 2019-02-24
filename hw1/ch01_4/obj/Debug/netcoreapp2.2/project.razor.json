@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/zhangjianding/Desktop/CSharpHomework/hw1/ch01_4/ch01_4.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
