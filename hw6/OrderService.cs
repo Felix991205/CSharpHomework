@@ -118,6 +118,7 @@ namespace hw5
             FileStream fs = new FileStream(filename, FileMode.Open, FileAccess.Read);
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Order>));
             this.orderDatabase = (List<Order>)xmlSerializer.Deserialize(fs);
+            fs.Close();
         }
 
     }
