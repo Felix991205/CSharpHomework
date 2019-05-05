@@ -33,7 +33,7 @@ namespace order
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContextPool<OrderDbContext>(
-                opt => opt.UseMySql("Server=localhost;Database=orderDb;User=root;Password=zjd991205",
+                opt => opt.UseMySql("Server=localhost;Database=orderDb;User=root;Password=(secret~)",
                 mySqlOptions =>{
                     mySqlOptions.ServerVersion(new Version(8,0,12), ServerType.MySql);
                 }
